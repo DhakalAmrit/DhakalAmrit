@@ -31,14 +31,11 @@
 * 📖 **Bachelor's Degree** in **Aerospace Engineering** @  [Northwestern Polytechnical University](https://studyat.nwpu.edu.cn/info/1089/1660.htm)
 * 📍 I'm based in Xi'an (China). 
 
-<!-- 
-</div>
-
-<h4 align="center">My Portfolio Website and My Resume</h4>
-<div align="center">
 
 </div>
---->
+
+[My Portfolio Website](https://dhakalamrit.github.io) and [Blogs](https://dhakalamrit.github.io/blogs.github.io/)
+
 * 👀 I’m interested in *Deep Learning, reinforcement learning, generative AI, Natural Language processing and time series analysis of data*
 * 🔍 My research include the use of Deep learning algorithms for **Battery State of Charge(SOC**) and **State of Health estimation(SOH**).
 * 🌱 I’m currently learning Deep Neural Networks, Natural Language Processsing and time series analysis.
